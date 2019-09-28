@@ -1,0 +1,3 @@
+[submodule "CalculatorLibrary"]
+	path = CalculatorLibrary
+	url = https://github.com/bpokhrel/CalculatorLibrary.git
